@@ -1,2 +1,2 @@
-# Frontend-week1
+# Frontend-practice
 HTML &amp; CSS practice
